@@ -10,8 +10,8 @@
 
 离线线路图数据源: [Let's Play](//letsplay.minecrafttransitrailway.com/system-map/) (2025 年 8 月 2 日)
 
-[Netlify demo](//mtr-osm-example-v2.netlify.app)
+[Netlify demo](//mtr-osm-example-v2.netlify.app/zh-Hans/)
 
-[Cloudflare Pages demo](//mtr-osm-example-v2.pages.dev)
+[Cloudflare Pages demo](//mtr-osm-example-v2.pages.dev/zh-Hans/)
 
-[Vercel demo](//mtr-osm-example-v2.vercel.app)
+[Vercel demo](//mtr-osm-example-v2.vercel.app/zh-Hans/)
